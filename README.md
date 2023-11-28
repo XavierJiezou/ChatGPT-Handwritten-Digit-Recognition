@@ -2,7 +2,7 @@
 
 This is a simple project for handwritten digit recognition using PyTorch. It includes a training script, an inference script with a graphical user interface (GUI), and a web page.
 ---
-*All the contents including the code are written by ChatGPT 3.5.*
+*All the contents including the README are written by ChatGPT 3.5.*
 
 ## Demo
 
