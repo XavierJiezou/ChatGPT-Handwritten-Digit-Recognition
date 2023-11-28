@@ -38,7 +38,7 @@ Make sure you have the following dependencies installed:
 Install the dependencies using:
 
 ```bash
-pip install torch torchvision Pillow matplotlib
+pip install torch torchvision Pillow matplotlib flask
 ```
 
 or
