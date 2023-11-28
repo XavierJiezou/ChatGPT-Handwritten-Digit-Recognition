@@ -1,6 +1,8 @@
-# Handwritten Digit Recognition
+# ChatGPT-Handwritten Digit Recognition
 
 This is a simple project for handwritten digit recognition using PyTorch. It includes a training script, an inference script with a graphical user interface (GUI), and a web page.
+---
+*All the contents including the code are written by ChatGPT 3.5.*
 
 ## Demo
 
@@ -108,7 +110,3 @@ python inference_web.py
 ```
 
 This will create a web page in the localhost `http://127.0.0.1:5000/`. Open the web page to use the web application.
-
-## Notes
-
-All the contents including the code are written by ChatGPT.
